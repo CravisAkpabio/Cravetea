@@ -105,7 +105,7 @@ position: relative;
 }
 .parent2{
     background-color: rgb(56, 28, 7);
-    padding: 10px;
+    height: 100vh;
 }
 #heading{
     color: white;
@@ -113,17 +113,7 @@ position: relative;
     font-family:Lucida Sans Unicode;
     margin-left: 50px;
 }
-#foot{
+.foot button{
     background-color: white;
-    width: 200px;
-    margin: 10px;
-    align-items: center;
-    
-}
-#foot button{
-border: none;
-color: white;
-background-color: rgb(214, 149, 100);
-padding: 10px;
-margin-left: 40px;
+
 }
